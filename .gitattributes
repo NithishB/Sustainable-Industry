@@ -1,0 +1,6 @@
+test_values.zip filter=lfs diff=lfs merge=lfs -text
+train_values.zip filter=lfs diff=lfs merge=lfs -text
+recipe_metadata.csv filter=lfs diff=lfs merge=lfs -text
+submission_format.csv filter=lfs diff=lfs merge=lfs -text
+train_labels.csv filter=lfs diff=lfs merge=lfs -text
+train_values.csv filter=lfs diff=lfs merge=lfs -text
